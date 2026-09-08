@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --color-celta: #E5252A;
+  --color-celta-dark: #C51D22;
+  --color-celta-deep: #991B1B;
+  --color-celta-light: #FEF2F2;
+  --color-celta-subtle: #FFF5F5;
+}
+
+/* Custom scrollbar and animations */
+body {
+  background-color: #FFFFFF;
+  color: #1e293b;
+  min-height: 100vh;
+}
+

@@ -1,0 +1,6 @@
+{
+  "name": "Celta de Vigo",
+  "description": "Aplicación de plantilla deportiva y evaluaciones de rendimiento del RC Celta de Vigo con sincronización en Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
